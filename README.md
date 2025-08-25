@@ -3,6 +3,8 @@
 ## Sobre o Projeto
 
 O projeto foi desenvolvido como **estudo prático de responsividade**, demonstrando técnicas modernas de design responsivo e CSS Grid/Flexbox.
+
+
 ![Image](https://github.com/user-attachments/assets/56c940bf-e37d-40a3-ac20-6a985ac957f4)
 
 
